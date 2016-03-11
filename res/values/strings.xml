@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">L001HelloWorld</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="greet">hahahas</string>
+    <string name="author">author: fanjinhao</string>
+	<string name="mytext">Beijing, I am coming</string>
+    <string name="mybut">haha, Fanjinhao, Beijing</string>
+</resources>
